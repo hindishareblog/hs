@@ -5,7 +5,7 @@
 window.onload = function () {
 	var e = document.getElementById("simpan");
 	if (e == null) {
-		window.location.href = "http://hindishare.blogspot.com"
+		window.location.href = "#"
 	}
 	e.setAttribute("href", "http://hindishare.blogspot.com/");
 	e.setAttribute("rel", "nofollow");
