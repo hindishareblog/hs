@@ -1,0 +1,17 @@
+.top-navigation, .main-navigation-items, .post, .entry-meta, .footer-widget, .comment-form p, .comment-body {*zoom:1;}
+.top-navigation:before, .main-navigation-items:before, .post:before, .entry-meta:before, .footer-widget:before, .comment-form p:before, .comment-body:before, .gallery:after, .top-navigation:after, .main-navigation-items:after, .post:after, .entry-meta:after, .footer-widget:after, .comment-form p:after, .comment-body:after {content: &quot;&quot;;display:table;}
+.top-navigation:after, .main-navigation-items:after, .post:after, .entry-meta:after, .footer-widget:after, .comment-form p:after, .comment-body:after {clear:both;}
+.widget-master ul, .comment-list {list-style:none;margin:0;padding:0;}
+.aligncenter {display:block;margin-left:auto;margin-right:auto;}
+button,a.button,input[type=&quot;reset&quot;],input[type=&quot;submit&quot;],input[type=&quot;button&quot;], .pagination .page-numbers {background:#fbfbfb;}
+h2.date-header {margin:1.5em 0 .5em;display:none;}
+.main .widget {margin:0 0 5px;padding:0 0 2px;}
+.main .Blog {border-bottom-width:0;}
+.blog-feeds {display:none;}
+.CSS_LIGHTBOX {z-index:999999!important;width:100%;height:auto;}
+.CSS_LIGHTBOX_BG_MASK_TRANSPARENT {background-color:#111!important;opacity:.85!important;}
+.CSS_LIGHTBOX_SCALED_IMAGE_IMG {width:auto!important;max-width:100%;box-shadow:0 0 10px rgba(0,0,0,0.1);}
+.CSS_LIGHTBOX_BTN_CLOSE {background: url(&#39;http://4.bp.blogspot.com/-9vBNlzkjRGU/VUlVTtzbolI/AAAAAAAAG-c/xBqHPFfMkzE/s1600/delete.png&#39;) no-repeat!important;width:32px!important;height:32px!important;top:20px!important;opacity:0.7;transition:all .3s;}
+.CSS_LIGHTBOX_BTN_CLOSE:hover{opacity:1;}
+.CSS_LIGHTBOX_BTN_CLOSE_POS {right:20px!important;}
+.CSS_LIGHTBOX_FILMSTRIP {background-color:#111!important;}
