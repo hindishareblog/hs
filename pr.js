@@ -6,8 +6,4 @@ window.onload = function () {
 	var e = document.getElementById("simpan");
 	if (e == null) {
 		window.location.href = "#"
-	}
-	e.setAttribute("href", "#");
-	e.setAttribute("rel", "nofollow");
-	e.innerHTML = "hindi share"
-}
+	}}
